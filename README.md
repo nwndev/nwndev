@@ -1,8 +1,7 @@
-- 👋 Hello!, I’m @nwndev
-- 👀 I’m interested in Developing Discord Bot
-- 🌱 I’m currently learning HTML!
+# About me.
+- 🖐 Hello, my name is **Yohanes Fernando.** Also known as **nwn#0924** on Discord. I like to create websites, and Discord bots! I'am born in Indonesia, Central Kalimantan.
+- 🌱 Currently learning Python and C++..
+- 👀 I have a project that i still working on it: [Bluby](https://dsc.gg/bdl)
 
-<!---
-nwndev/nwndev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Social Medias.
+- Discord: nwn#0924
