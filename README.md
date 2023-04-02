@@ -1,9 +1,9 @@
 # About me
-- 🖐 Hello, my name is **Yohanes Fernando.** Also known as **nwn#0924** on Discord. I like to create websites, and Discord bots! I'am born in Indonesia, Central Kalimantan.
+- 🖐 Hello, my name is **Yohanes Fernando.** Also known as **nwn#0924** on Discord. I like to create websites, and Discord bots!
 - 🚀 Currently learning Python and C++
 # Social Media
 - Discord: nwn#0924
-- Instagram: _yohanes.fer
+- Instagram: -
 ## Even more about me
 - 15 year old,
 - graphics designer,
