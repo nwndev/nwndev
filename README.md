@@ -1,11 +1,11 @@
 # About me
 - 🖐 Hello, my name is **Yohanes Fernando.** Also known as **nwn#0924** on Discord. I like to create websites, and Discord bots!
-- 🚀 Currently learning Python and C++
+- 🚀 Currently learning Python, Java and C++
 # Social Media
-- Discord: nwn#0924
-- Instagram: -
+- Discord: @nwnvv
+- Instagram: @ivzyoo
 ## Even more about me
 - 15 year old,
 - graphics designer,
-- have used Typescript, Python, C++, PHP, HTML & CSS, and Ruby.
-- often use discord.js, eris, and aoi.js
+- have used Javascript, Python, Java, C++, PHP, HTML & CSS, and Ruby.
+- mainly use discord.js, eris, and aoi.js
