@@ -7,5 +7,5 @@
 ## Even more about me
 - 15 year old,
 - graphics designer,
-- have used Javascript, Python, Java, C++, PHP, HTML & CSS, and Ruby.
+- have used JavaScript, Python, Java, C++, PHP, HTML & CSS, and Ruby.
 - mainly use discord.js, eris, and aoi.js
